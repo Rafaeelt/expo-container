@@ -7,8 +7,7 @@ import FotoPerfil from './FotoPerfil';
 import CartaoUsuario from './CartaoUsuario';
 
 export default function App() {
-  return (
-    <ScrollView style={{ padding: 20 }}>
+  return (<ScrollView >
       <Titulo />
       <Saudacao nome="Rafael" />
       <Saudacao nome="Aluno Tech" />
