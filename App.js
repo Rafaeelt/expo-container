@@ -15,7 +15,7 @@ export default function App() {
       <CartaoUsuario
         nome="Emanuelly"
         descricao="Desenvolvedora em Formação"
-        imagem="https://joaoespacheco.vercel.app/"
+        imagem='perfil100'
       />
     </ScrollView>
   );
